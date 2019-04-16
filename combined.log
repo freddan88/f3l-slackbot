@@ -1,38 +1,36 @@
-{"message":"This is sent to a combined.log file","level":"info","service":"user-service"}
-{"message":"This is sent to a error.log file","level":"error","service":"user-service"}
-{"message":"This is sent to a combined.log file","level":"info","service":"user-service"}
-{"message":"This is sent to a error.log file","level":"error","service":"user-service"}
-undefined
-undefined
-undefined
-undefined
-This is sent to a combined.log file
-This is sent to a error.log file
-2019-04-16T08:07:35.713Z This is sent to a combined.log file
-2019-04-16T08:07:35.715Z This is sent to a error.log file
-2019-04-16T08:07:56.969Z - This is sent to a combined.log file
-2019-04-16T08:07:56.971Z - This is sent to a error.log file
-info - This is sent to a combined.log file - 2019-04-16T08:08:37.538Z
-error - This is sent to a error.log file - 2019-04-16T08:08:37.540Z
-info: This is sent to a combined.log file - 2019-04-16T08:08:57.099Z
-error: This is sent to a error.log file - 2019-04-16T08:08:57.101Z
-info: This is sent to a combined.log file - 2019-04-16T08:10:14.757Z
-error: This is sent to a error.log file - 2019-04-16T08:10:14.759Z
-info: This is sent to a combined.log file - 2019-04-16T08:25:29.731Z
-error: This is sent to a error.log file - 2019-04-16T08:25:29.734Z
-info: This is sent to a combined.log file - 2019-04-16T08:36:22.735Z
-error: This is sent to a error.log file - 2019-04-16T08:36:22.737Z
-info: This is sent to a combined.log file - 2019-04-16T08:41:38.002Z
-error: This is sent to a error.log file - 2019-04-16T08:41:38.004Z
-info: This is sent to a combined.log file - 2019-04-16T08:48:36.657Z
-error: This is sent to a error.log file - 2019-04-16T08:48:36.659Z
-info: This is sent to a combined.log file - 2019-04-16T08:49:01.499Z
-error: This is sent to a error.log file - 2019-04-16T08:49:01.501Z
-error: Ènvironment variable NODE_PROC is missing - 2019-04-16T08:49:01.502Z
-error: uncaught exception: Error: Ènvironment variable NODE_PROC is missing - 2019-04-16T08:49:01.502Z
-info: This is sent to a combined.log file - 2019-04-16T08:49:31.722Z
-error: This is sent to a error.log file - 2019-04-16T08:49:31.724Z
-info: This is sent to a combined.log file - 2019-04-16T11:37:09.626Z
-error: This is sent to a error.log file - 2019-04-16T11:37:09.628Z
-info: This is sent to a combined.log file - 2019-04-16T11:44:31.160Z
-error: This is sent to a error.log file - 2019-04-16T11:44:31.161Z
+info: This is sent to a combined.log file - 2019-04-16T11:47:08.587Z
+error: This is sent to a error.log file - 2019-04-16T11:47:08.589Z
+info: This is sent to a combined.log file - 2019-04-16T11:47:40.931Z
+error: This is sent to a error.log file - 2019-04-16T11:47:40.933Z
+info: This is sent to a combined.log file - 2019-04-16T11:49:28.701Z
+error: This is sent to a error.log file - 2019-04-16T11:49:28.704Z
+info: This is sent to a combined.log file - 2019-04-16T11:54:08.054Z
+error: This is sent to a error.log file - 2019-04-16T11:54:08.056Z
+info: This is sent to a combined.log file - 2019-04-16T11:55:41.548Z
+error: This is sent to a error.log file - 2019-04-16T11:55:41.549Z
+info: This is sent to a combined.log file - 2019-04-16T12:00:42.043Z
+error: This is sent to a error.log file - 2019-04-16T12:00:42.044Z
+info: This is sent to a combined.log file - 2019-04-16T12:02:49.300Z
+error: This is sent to a error.log file - 2019-04-16T12:02:49.301Z
+info: This is sent to a combined.log file - 2019-04-16T12:04:14.771Z
+error: This is sent to a error.log file - 2019-04-16T12:04:14.773Z
+info: This is sent to a combined.log file - 2019-04-16T12:10:49.685Z
+error: This is sent to a error.log file - 2019-04-16T12:10:49.687Z
+info: This is sent to a combined.log file - 2019-04-16T12:10:54.661Z
+error: This is sent to a error.log file - 2019-04-16T12:10:54.662Z
+info: This is sent to a combined.log file - 2019-04-16T12:11:40.842Z
+error: This is sent to a error.log file - 2019-04-16T12:11:40.845Z
+error: uncaught exception: Error: Cannot find module '/Users/fredrik/_root/Repositories/f3l-slackbot/skills/convo' - 2019-04-16T12:11:40.863Z
+info: This is sent to a combined.log file - 2019-04-16T12:11:50.928Z
+error: This is sent to a error.log file - 2019-04-16T12:11:50.929Z
+error: uncaught exception: TypeError: convo is not a function - 2019-04-16T12:11:50.956Z
+info: This is sent to a combined.log file - 2019-04-16T12:20:07.583Z
+error: This is sent to a error.log file - 2019-04-16T12:20:07.585Z
+info: This is sent to a combined.log file - 2019-04-16T12:25:32.676Z
+error: This is sent to a error.log file - 2019-04-16T12:25:32.678Z
+info: This is sent to a combined.log file - 2019-04-16T12:26:23.452Z
+error: This is sent to a error.log file - 2019-04-16T12:26:23.454Z
+info: This is sent to a combined.log file - 2019-04-16T12:34:53.374Z
+error: This is sent to a error.log file - 2019-04-16T12:34:53.376Z
+info: This is sent to a combined.log file - 2019-04-16T12:36:59.544Z
+error: This is sent to a error.log file - 2019-04-16T12:36:59.546Z

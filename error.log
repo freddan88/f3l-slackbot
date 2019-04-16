@@ -1,20 +1,19 @@
-{"message":"This is sent to a error.log file","level":"error","service":"user-service"}
-{"message":"This is sent to a error.log file","level":"error","service":"user-service"}
-undefined
-undefined
-This is sent to a error.log file
-2019-04-16T08:07:35.715Z This is sent to a error.log file
-2019-04-16T08:07:56.971Z - This is sent to a error.log file
-error - This is sent to a error.log file - 2019-04-16T08:08:37.540Z
-error: This is sent to a error.log file - 2019-04-16T08:08:57.101Z
-error: This is sent to a error.log file - 2019-04-16T08:10:14.759Z
-error: This is sent to a error.log file - 2019-04-16T08:25:29.734Z
-error: This is sent to a error.log file - 2019-04-16T08:36:22.737Z
-error: This is sent to a error.log file - 2019-04-16T08:41:38.004Z
-error: This is sent to a error.log file - 2019-04-16T08:48:36.659Z
-error: This is sent to a error.log file - 2019-04-16T08:49:01.501Z
-error: Ènvironment variable NODE_PROC is missing - 2019-04-16T08:49:01.502Z
-error: uncaught exception: Error: Ènvironment variable NODE_PROC is missing - 2019-04-16T08:49:01.502Z
-error: This is sent to a error.log file - 2019-04-16T08:49:31.724Z
-error: This is sent to a error.log file - 2019-04-16T11:37:09.628Z
-error: This is sent to a error.log file - 2019-04-16T11:44:31.161Z
+error: This is sent to a error.log file - 2019-04-16T11:47:08.589Z
+error: This is sent to a error.log file - 2019-04-16T11:47:40.933Z
+error: This is sent to a error.log file - 2019-04-16T11:49:28.704Z
+error: This is sent to a error.log file - 2019-04-16T11:54:08.056Z
+error: This is sent to a error.log file - 2019-04-16T11:55:41.549Z
+error: This is sent to a error.log file - 2019-04-16T12:00:42.044Z
+error: This is sent to a error.log file - 2019-04-16T12:02:49.301Z
+error: This is sent to a error.log file - 2019-04-16T12:04:14.773Z
+error: This is sent to a error.log file - 2019-04-16T12:10:49.687Z
+error: This is sent to a error.log file - 2019-04-16T12:10:54.662Z
+error: This is sent to a error.log file - 2019-04-16T12:11:40.845Z
+error: uncaught exception: Error: Cannot find module '/Users/fredrik/_root/Repositories/f3l-slackbot/skills/convo' - 2019-04-16T12:11:40.863Z
+error: This is sent to a error.log file - 2019-04-16T12:11:50.929Z
+error: uncaught exception: TypeError: convo is not a function - 2019-04-16T12:11:50.956Z
+error: This is sent to a error.log file - 2019-04-16T12:20:07.585Z
+error: This is sent to a error.log file - 2019-04-16T12:25:32.678Z
+error: This is sent to a error.log file - 2019-04-16T12:26:23.454Z
+error: This is sent to a error.log file - 2019-04-16T12:34:53.376Z
+error: This is sent to a error.log file - 2019-04-16T12:36:59.546Z

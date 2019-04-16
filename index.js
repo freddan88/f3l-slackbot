@@ -51,3 +51,8 @@ controller.setupWebserver(PORT, (err, webserver) => {
             res.send('Connected to Slack');
         })
 });
+
+const hears = require(path.join(__dirname, 'skills/hears'));
+const convo = require(path.join(__dirname, 'skills/convo'));
+hears(controller);
+convo(controller);
