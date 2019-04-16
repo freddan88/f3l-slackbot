@@ -1,1 +1,10 @@
 {"message":"This is sent to a error.log file","level":"error","service":"user-service"}
+{"message":"This is sent to a error.log file","level":"error","service":"user-service"}
+undefined
+undefined
+This is sent to a error.log file
+2019-04-16T08:07:35.715Z This is sent to a error.log file
+2019-04-16T08:07:56.971Z - This is sent to a error.log file
+error - This is sent to a error.log file - 2019-04-16T08:08:37.540Z
+error: This is sent to a error.log file - 2019-04-16T08:08:57.101Z
+error: This is sent to a error.log file - 2019-04-16T08:10:14.759Z
