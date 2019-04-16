@@ -8,3 +8,11 @@ This is sent to a error.log file
 error - This is sent to a error.log file - 2019-04-16T08:08:37.540Z
 error: This is sent to a error.log file - 2019-04-16T08:08:57.101Z
 error: This is sent to a error.log file - 2019-04-16T08:10:14.759Z
+error: This is sent to a error.log file - 2019-04-16T08:25:29.734Z
+error: This is sent to a error.log file - 2019-04-16T08:36:22.737Z
+error: This is sent to a error.log file - 2019-04-16T08:41:38.004Z
+error: This is sent to a error.log file - 2019-04-16T08:48:36.659Z
+error: This is sent to a error.log file - 2019-04-16T08:49:01.501Z
+error: Ènvironment variable NODE_PROC is missing - 2019-04-16T08:49:01.502Z
+error: uncaught exception: Error: Ènvironment variable NODE_PROC is missing - 2019-04-16T08:49:01.502Z
+error: This is sent to a error.log file - 2019-04-16T08:49:31.724Z

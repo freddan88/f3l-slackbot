@@ -19,4 +19,8 @@ const logger = winston.createLogger({
     ]
   });
 
+  process.on('uncaughtException', error => {
+    logger.error(`uncaught exception: ${error}`);
+  })
+
   module.exports = logger;
