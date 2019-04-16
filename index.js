@@ -54,5 +54,7 @@ controller.setupWebserver(PORT, (err, webserver) => {
 
 const hears = require(path.join(__dirname, 'skills/hears'));
 const convo = require(path.join(__dirname, 'skills/convo'));
+const jokeApi = require(path.join(__dirname, 'skills/api'));
 hears(controller);
 convo(controller);
+jokeApi(controller);

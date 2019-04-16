@@ -7,14 +7,22 @@ module.exports = (controller) => {
         convo.ask('What do you want to say?', (res, convo) => {
             const text = res.text;
             convo.say('Interesting...');
-            nextStep(res, convo);
+            q1(res, convo);
             convo.next();
         });
     }
 
-    const nextStep = (res, convo) => {
+    const q1 = (res, convo) => {
         convo.addQuestion('Is that all?', (res, convo) => {
             convo.say('Bye bye...');
+            q2(res, convo);
+            convo.next();
+        })
+    }
+
+    const q2 = (res, convo) => {
+        convo.addQuestion('Now here?', (res, convo) => {
+            convo.say('Yup...');
             convo.next();
         })
     }
