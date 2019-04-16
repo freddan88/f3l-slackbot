@@ -16,3 +16,5 @@ error: This is sent to a error.log file - 2019-04-16T08:49:01.501Z
 error: Ènvironment variable NODE_PROC is missing - 2019-04-16T08:49:01.502Z
 error: uncaught exception: Error: Ènvironment variable NODE_PROC is missing - 2019-04-16T08:49:01.502Z
 error: This is sent to a error.log file - 2019-04-16T08:49:31.724Z
+error: This is sent to a error.log file - 2019-04-16T11:37:09.628Z
+error: This is sent to a error.log file - 2019-04-16T11:44:31.161Z
