@@ -12,10 +12,10 @@ module.exports = (controller) => {
         });
     }
 
-    const nextStep = (res, err) => {
+    const nextStep = (res, convo) => {
         convo.addQuestion('Is that all?', (res, convo) => {
             convo.say('Bye bye...');
-            convo.end();
+            convo.next();
         })
     }
 }
