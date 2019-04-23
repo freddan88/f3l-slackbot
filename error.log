@@ -72,3 +72,10 @@ error: This is sent to a error.log file - 2019-04-16T14:14:33.650Z
 error: This is sent to a error.log file - 2019-04-16T14:15:19.578Z
 error: This is sent to a error.log file - 2019-04-16T14:16:05.082Z
 error: This is sent to a error.log file - 2019-04-16T15:18:24.357Z
+error: This is sent to a error.log file - 2019-04-22T18:21:42.656Z
+error: This is sent to a error.log file - 2019-04-22T18:25:41.442Z
+error: invalid json response body at https://api.chucknorris.io/jokes/random?category=poo reason: Unexpected token < in JSON at position 0 - 2019-04-22T18:25:55.820Z
+error: This is sent to a error.log file - 2019-04-23T07:04:45.793Z
+error: invalid json response body at https://api.chucknorris.io/jokes/random?category=hej reason: Unexpected token < in JSON at position 0 - 2019-04-23T07:07:08.702Z
+error: This is sent to a error.log file - 2019-04-23T07:12:19.658Z
+error: invalid json response body at https://api.chucknorris.io/jokes/random?category=hello reason: Unexpected token < in JSON at position 0 - 2019-04-23T07:13:11.735Z
